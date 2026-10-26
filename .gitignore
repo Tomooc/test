@@ -1,0 +1,5 @@
+﻿# OS / editor / IDE
+.DS_Store
+Thumbs.db
+*.log
+
